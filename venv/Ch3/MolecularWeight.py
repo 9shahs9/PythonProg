@@ -2,7 +2,6 @@
 # A program to compute the molecular weight of Carbohydrates
 
 
-
 def getMolecularWeight():
     w_hydrogen = 1.00794
     w_carbon = 12.0107
@@ -18,8 +17,10 @@ def getMolecularWeight():
     print("Automic Weight of " + formula + " is ", automic_weight)
     return automic_weight
 
+
 def getAtomsCount(f_sub_code):
-    atoms_count = int(f_sub_code.upper().replace('H','').replace('C', '').replace('O',''))
+    atoms_count = int(f_sub_code.upper().replace('H', '').replace('C', '').replace('O', ''))
     return atoms_count
+
 
 getMolecularWeight()

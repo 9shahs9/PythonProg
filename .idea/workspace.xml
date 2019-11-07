@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05927a55-e15c-454b-be3b-ba9a263df39a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" afterDir="false" />
+    <list default="true" id="05927a55-e15c-454b-be3b-ba9a263df39a" name="Default Changelist" comment="commit from PyCharms">
+      <change afterPath="$PROJECT_DIR$/venv/Ch3/coffee_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Ch3/line_slope.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Ch3/BestPizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/BestPizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Ch3/Sphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/Sphere.py" afterDir="false" />
     </list>
@@ -14,6 +16,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonProgs" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +27,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/t1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TDaO7hxeRTOBPZ9mGOyL3A7bjl" />
@@ -48,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LighteningStrikes">
+  <component name="RunManager" selected="Python.line_slope">
     <configuration name="BestPizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,27 +93,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/BestPizza.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProgs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Ch2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch2/Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sphere" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="coffee_cost" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +155,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/Sphere.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/coffee_cost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line_slope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProgs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/line_slope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.line_slope" />
+        <item itemvalue="Python.coffee_cost" />
         <item itemvalue="Python.LighteningStrikes" />
         <item itemvalue="Python.MolecularWeight" />
         <item itemvalue="Python.BestPizza" />
-        <item itemvalue="Python.Sphere" />
-        <item itemvalue="Python.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +206,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572997084304</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit from PyCharms">
+      <created>1573129255150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573129255150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,5 +228,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit from PyCharms" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from PyCharms" />
   </component>
 </project>
