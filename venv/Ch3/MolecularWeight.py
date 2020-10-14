@@ -19,7 +19,9 @@ def getMolecularWeight():
 
 
 def getAtomsCount(f_sub_code):
-    atoms_count = int(f_sub_code.upper().replace('H', '').replace('C', '').replace('O', ''))
+    atoms_count = int(f_sub_code.upper().replace('H', '').replace('C',
+                                                                  '').replace(
+                                                                      'O', ''))
     return atoms_count
 
 

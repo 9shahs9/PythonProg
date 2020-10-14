@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05927a55-e15c-454b-be3b-ba9a263df39a" name="Default Changelist" comment="commit from PyCharms">
-      <change afterPath="$PROJECT_DIR$/venv/Ch3/coffee_cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Ch3/line_slope.py" afterDir="false" />
+    <list default="true" id="382152ae-b38f-471c-90f9-19be4f4c98c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/Ch3/epact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Ch3/linear_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/classics/Move.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/classics/MyStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/classics/TowerOfHanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/classics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/hackerRank/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/hackerRank/set_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProgs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Ch3/BestPizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/BestPizza.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Ch3/Sphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/Sphere.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Ch3/line_slope.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/line_slope.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PythonProgs" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,45 +30,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/t1" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TDaO7hxeRTOBPZ9mGOyL3A7bjl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  <component name="ProjectId" id="1TT42h69aJDqzQ7dcwZzC1JhwEe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/venv/Ch1" />
-    </key>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.line_slope">
+  <component name="RunManager" selected="Python.TowerOfHanoi">
     <configuration name="BestPizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,27 +67,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/BestPizza.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LighteningStrikes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProgs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Ch3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/LighteningStrikes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coffee_cost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TowerOfHanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Ch3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/classics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/coffee_cost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/classics/TowerOfHanoi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="line_slope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="epact" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +129,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/line_slope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Ch3/epact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set_ops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProgs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/hackerRank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/hackerRank/set_ops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.line_slope" />
-        <item itemvalue="Python.coffee_cost" />
-        <item itemvalue="Python.LighteningStrikes" />
-        <item itemvalue="Python.MolecularWeight" />
+        <item itemvalue="Python.TowerOfHanoi" />
+        <item itemvalue="Python.set_ops" />
         <item itemvalue="Python.BestPizza" />
+        <item itemvalue="Python.MolecularWeight" />
+        <item itemvalue="Python.epact" />
       </list>
     </recent_temporary>
   </component>
@@ -200,20 +174,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05927a55-e15c-454b-be3b-ba9a263df39a" name="Default Changelist" comment="" />
-      <created>1572997084304</created>
+      <changelist id="382152ae-b38f-471c-90f9-19be4f4c98c2" name="Default Changelist" comment="" />
+      <created>1573470545414</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572997084304</updated>
+      <updated>1573470545414</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit from PyCharms">
-      <created>1573129255150</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1573129255150</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +196,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit from PyCharms" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit from PyCharms" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
