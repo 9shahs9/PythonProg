@@ -28,7 +28,7 @@ class TowerOfHanoi:
 
     def start_game(self):
         move = Move(5,0,2)
-        self.make_move(move)
+        self.make_move2(move)
 
     def get_dest_stack(self, move):
         stacks_list = [0,1,2]
@@ -38,9 +38,23 @@ class TowerOfHanoi:
 
 
     def make_move2(self, move):
+        disk_above = 0
+        dest_stack = 0
         # move.disk -1 disk to be moved from src to spare
+        if move.disk > 1:
+            disk_above = self.stacks[move.from_stack].get_disk_before(move.disk)
+            dest_stack = self.get_dest_stack(move)
+            self.make_move2(Move(disk_above, move.from_stack, dest_stack))
+
         # move.disk from src to dest
+        self.stacks[move.from_stack].pop()
+        self.stacks[move.to_stack].push(move.disk)
+        print(f' Stack {move.from_stack} latest position is : {self.stacks[move.from_stack].show()}')
+        print(f' Stack {move.to_stack} latest position is : {self.stacks[move.to_stack].show()}')
+
         # move.disk-1 disks to be moved from spare to dest.
+        if move.disk > 1:
+            self.make_move2(Move(disk_above, dest_stack, move.to_stack))
 
 
 

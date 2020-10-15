@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382152ae-b38f-471c-90f9-19be4f4c98c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Ch3/epact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Ch3/linear_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/classics/Move.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/classics/MyStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/classics/TowerOfHanoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/classics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/hackerRank/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/hackerRank/set_ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProgs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/MolecularWeight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Ch3/line_slope.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Ch3/line_slope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/classics/MyStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/classics/MyStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/classics/TowerOfHanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/classics/TowerOfHanoi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +170,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573470545414</updated>
     </task>
+    <task id="LOCAL-00001" summary="Accumulated changes">
+      <created>1602692267042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602692267042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,9 +195,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Accumulated changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accumulated changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/classics/TowerOfHanoi.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

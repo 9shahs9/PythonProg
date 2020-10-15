@@ -47,7 +47,10 @@ class MyStack:
 
     def get_disk_before(self,disk):
         idx = self.get_index(disk)
-        return self.get_disk(idx-1)
+        if idx > 0:
+            return self.get_disk(idx-1)
+        else:
+            return -1
 
     def show(self):
         return self.stack
